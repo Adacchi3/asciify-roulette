@@ -1,0 +1,10 @@
+{
+  "name": "asciify-roulette",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adacchi3 <adachi.prog@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "asciify": "^1.3.5"
+  }
+}
